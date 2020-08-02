@@ -1,0 +1,15 @@
+#jaelee {
+    font-size: 5rem;
+}
+
+#navi {
+    background: rgba(0,0,0,0.08);
+    border-radius: 10px;
+}
+
+#midsec {
+    background: rgba(0,0,0,0.08);
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
